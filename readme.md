@@ -1,6 +1,6 @@
 #  Image Super-Resolution Using Very Deep Residual Channel Attention Networks
 
-An implementation of RCAN described in the paper using tensorflow.
+An Google Colab Notebook implementation of RCAN described in the paper using tensorflow.
 [Image Super-Resolution Using Very Deep Residual Channel Attention Networks](https://arxiv.org/abs/1807.02758)
 
 Published in ECCV 2018, written by Y. Zhang, K. Li, L. Wang, B. Zhong, and Y. Fu
